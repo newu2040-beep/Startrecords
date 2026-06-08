@@ -1,6 +1,6 @@
 {
   "name": "StartRecord",
   "description": "Premium audio recording studio featuring one-tap recording, customizable noise reduction, audio enhancements, smart organization, custom bookmarks, and call log integration.",
-  "requestFramePermissions": [],
+  "requestFramePermissions": ["AUDIO_CAPTURE"],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
